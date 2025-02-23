@@ -70,9 +70,9 @@ Once confirmed, the student is removed from the DataFrame, and a success message
 
 | ID   | Name    | Age | Grade |
 |------|---------|-----|-------|
-| 101  | Alice   | 20  | A     |
-| 102  | Bob     | 22  | B     |
-| 103  | Charlie | 21  | A     |
+| 101  | Fatima  | 20  | A     |
+| 102  | Sana    | 22  | B     |
+| 103  | Hina    | 21  | A     |
 
 
 This README should help others understand and use your Streamlit app. Let me know if you'd like any changes!
