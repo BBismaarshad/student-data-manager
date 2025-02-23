@@ -75,8 +75,4 @@ Once confirmed, the student is removed from the DataFrame, and a success message
 | 103  | Charlie | 21  | A     |
 
 
-## This README should help others understand and use your Streamlit app. Let me know if you'd like any changes!
-
-
-
-
+This README should help others understand and use your Streamlit app. Let me know if you'd like any changes!
